@@ -1,3 +1,4 @@
+![logo](https://github.com/yashubhati47/yashubhati47/blob/main/Purple%20Modern%20Gaming%20Channel%20Banner%20Landscape.png)
 <h1 align="center">Hi 👋, I'm Yashpal Bhati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
